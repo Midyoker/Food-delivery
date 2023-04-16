@@ -1,2 +1,2 @@
-# Hackathon
-This is just the front end of this website.
+
+This is just an expample for landing page 
