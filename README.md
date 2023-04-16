@@ -1,2 +1,2 @@
 
-This is just an expample for landing page 
+This is just an example for landing page 
